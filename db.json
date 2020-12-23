@@ -7,34 +7,10 @@
       "content": "knlefn ok inskjab"
     },
     {
-      "id": 2,
-      "date": "2021-02-25",
-      "title": "1",
-      "content": "k ns as ns"
-    },
-    {
-      "id": 3,
-      "date": "2020-02-18",
-      "title": "5",
-      "content": "lorem\nlksn iu bhflidjbcld"
-    },
-    {
       "id": 4,
       "date": "2020-09-08",
       "title": "news in the ETV",
       "content": "india match with Aus"
-    },
-    {
-      "id": 5,
-      "date": "2020-12-05",
-      "title": "sak n",
-      "content": "a sjdbas"
-    },
-    {
-      "id": 6,
-      "date": "2020-06-03",
-      "title": "new",
-      "content": "kn daj"
     },
     {
       "id": 7,
@@ -53,6 +29,18 @@
       "date": "2020-06-19",
       "title": "July_1",
       "content": "(node:15008) [DEP0148] DeprecationWarning: Use of deprecated folder mapping \"./\" in the \"exports\" field module resolution of the package at C:\\Users\\Reliance\\Desktop\\Html_Css\\outputs\\React_Apps\\online-diary\\node_modules\\postcss-safe-parser\\node_modules\\postcss\\package.json.\nUpdate this package.json to use a subpath pattern like \"./*\"."
+    },
+    {
+      "id": 10,
+      "date": "2020-01-23",
+      "title": "second",
+      "content": "Alternatively, you can use a trick to teach GitHub Pages to handle 404s by redirecting to your index.html page with a custom redirect parameter. You would need to add a 404.html file with the redirection code to the build folder before deploying your project, and you’ll need to add code"
+    },
+    {
+      "id": 11,
+      "date": "2020-12-04",
+      "title": "new",
+      "content": "Alternatively, you can use a trick to teach GitHub Pages to handle 404s by redirecting to your index.html page with a custom redirect parameter. You would need to add a"
     }
   ]
 }
