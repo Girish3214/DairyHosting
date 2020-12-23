@@ -1,0 +1,76 @@
+.main-body {
+  width: 50em;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  /* display: flex; */
+  text-align: center;
+  justify-content: center;
+  width: auto;
+}
+
+.inputText,
+.inputTextArea,
+.inputDateText {
+  width: auto;
+  border: none;
+  border-bottom: 2px solid rgb(216, 199, 167);
+  border-radius: 10px;
+  padding: 4px;
+  margin: 10px;
+  outline: none;
+  font-size: 1.2em;
+  resize: none;
+  align-items: center;
+}
+
+.inputText {
+  height: 2.5rem;
+}
+
+.inputTextArea {
+  width: 96%;
+  height: 20em;
+  margin-right: 100px;
+  font-size: 15px;
+}
+
+.inputDateText {
+  width: 10rem;
+  padding-right: 0;
+}
+
+.submit-btn {
+  float: none;
+  display: inline-block;
+  margin: 20px;
+  background: #f5ba13;
+  font-size: 2em;
+  color: #fff;
+  border: none;
+  padding: 5px;
+  width: 5em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  outline: none;
+  align-items: center;
+}
+
+.label-text {
+  font-size: 2em;
+}
+
+@media screen and (max-width: 600px) {
+  .inputText {
+    font-size: 1.8em;
+    height: 2em;
+  }
+  .label-text {
+    font-size: 2em;
+  }
+  .submit-btn {
+    font-size: 2.3em;
+  }
+}

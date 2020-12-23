@@ -1,0 +1,9 @@
+.main-body {
+  max-height: auto;
+  padding: 20px;
+}
+
+.container {
+  height: 150vh;
+  width: auto;
+}

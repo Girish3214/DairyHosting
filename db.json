@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "date": "2021-01-01",
+      "title": "First",
+      "content": "knlefn ok inskjab"
+    },
+    {
+      "id": 2,
+      "date": "2021-02-25",
+      "title": "1",
+      "content": "k ns as ns"
+    },
+    {
+      "id": 3,
+      "date": "2020-02-18",
+      "title": "5",
+      "content": "lorem\nlksn iu bhflidjbcld"
+    },
+    {
+      "id": 4,
+      "date": "2020-09-08",
+      "title": "news in the ETV",
+      "content": "india match with Aus"
+    },
+    {
+      "id": 5,
+      "date": "2020-12-05",
+      "title": "sak n",
+      "content": "a sjdbas"
+    },
+    {
+      "id": 6,
+      "date": "2020-06-03",
+      "title": "new",
+      "content": "kn daj"
+    },
+    {
+      "id": 7,
+      "date": "2020-12-11",
+      "title": "asd",
+      "content": "sinfj eiruf rekfnakj "
+    },
+    {
+      "id": 8,
+      "date": "2020-04-19",
+      "title": "today",
+      "content": "Steganography is the art of hiding the fact that communication is taking place, by hiding information in other information. Many different carrier file formats can be used, but digital images are the most popular because of their frequency on the internet. For hiding secret information in images, there exists a large variety of steganography techniques some are more complex than others and all of them have respective strong and weak points. Different applications may require absolute invisibility of the secret information, while others require a large secret message to be hidden. This project report intends to give an overview of image steganography, its uses and techniques. It also attempts to identify the requirements of a good steganography algorithm and briefly reflects on which steganographic techniques are more suitable for which applications."
+    },
+    {
+      "id": 9,
+      "date": "2020-06-19",
+      "title": "July_1",
+      "content": "(node:15008) [DEP0148] DeprecationWarning: Use of deprecated folder mapping \"./\" in the \"exports\" field module resolution of the package at C:\\Users\\Reliance\\Desktop\\Html_Css\\outputs\\React_Apps\\online-diary\\node_modules\\postcss-safe-parser\\node_modules\\postcss\\package.json.\nUpdate this package.json to use a subpath pattern like \"./*\"."
+    }
+  ]
+}
